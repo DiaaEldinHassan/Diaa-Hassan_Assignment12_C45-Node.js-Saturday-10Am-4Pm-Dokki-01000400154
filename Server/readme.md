@@ -7,3 +7,4 @@
 - [x] Sign In with provider
 - [x] Create Images Uploader
 - [x] Send OTP with nodemailer
+- [x] Validate With Joi
